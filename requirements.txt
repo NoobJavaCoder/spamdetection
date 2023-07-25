@@ -1,4 +1,6 @@
 nltk==3.8.1
 streamlit
+pandas
+numpy
 scikit-learn
-python3-scipy
+scipy
