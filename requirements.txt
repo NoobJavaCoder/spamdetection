@@ -1,5 +1,4 @@
 nltk==3.8.1
-pickle
 streamlit
 pandas
 numpy
