@@ -1,4 +1,4 @@
 nltk==3.8.1
 streamlit
 scikit-learn
-scipy.sparse._csr
+python3-scipy
